@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "#lag_entity_cleaner:pesky_mobs",
+    "equipment": {
+      "mainhand": {
+        "tag": "lag_entity_cleaner:pesky_items"
+      }
+    }
+  }
+}
