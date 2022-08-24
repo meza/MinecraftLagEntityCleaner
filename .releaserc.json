@@ -28,9 +28,7 @@
       {
         "assets": [
           {
-            "path": [
-              "CHANGELOG.md"
-            ],
+            "path": "LagEntityCleaner.zip",
             "name": "LagEntityCleaner-${nextRelease.gitTag}.zip",
             "label": "LagEntityCleaner-${nextRelease.gitTag}.zip"
           }
