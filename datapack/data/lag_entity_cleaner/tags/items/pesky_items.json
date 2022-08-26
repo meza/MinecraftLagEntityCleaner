@@ -25,6 +25,8 @@
     "minecraft:iron_sword",
     "minecraft:iron_shovel",
     "minecraft:fishing_rod",
-    "minecraft:stone_sword"
+    "minecraft:stone_sword",
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
   ]
 }
