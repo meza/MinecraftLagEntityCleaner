@@ -1,5 +1,12 @@
 # Lag Entity Cleaner Changelog
 
+## [1.0.2](https://github.com/meza/MinecraftLagEntityCleaner/compare/v1.0.1...v1.0.2) (2025-04-26)
+
+
+### Bug Fixes
+
+* updated to 1.21.5 ([22eaf92](https://github.com/meza/MinecraftLagEntityCleaner/commit/22eaf928c8cc6fcaa10b2969b999325789712600))
+
 ## [1.0.1](https://github.com/meza/MinecraftLagEntityCleaner/compare/v1.0.0...v1.0.1) (2022-08-26)
 
 
